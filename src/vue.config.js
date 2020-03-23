@@ -1,0 +1,1 @@
+export const publicPath = '/tic-tac-toe/';
